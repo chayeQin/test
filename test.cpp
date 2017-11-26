@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
 	int result = 0;
-	for (int o = 0; o < 10; ++o){
-		count << "test " << o << endl;
+	for (int j = 0; j < 10; ++j){
+		count << "test " << j << endl;
 		result = result + 1;
 	}
 
